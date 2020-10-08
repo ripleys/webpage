@@ -1,9 +1,9 @@
 <?php
 //connect.php
-$server = 'localhost';
-$username   = 'usernamehere';
-$password   = 'passwordhere';
-$database   = 'databasenamehere';
+$server = 'https://github.com/ripleys/webpage/blob/main/';
+$username   = 'ripleys';
+$password   = 'SMRS1125apple';
+$database   = 'DB.sql';
  
 if(!mysql_connect($server, $username,  $password))
 {
