@@ -1,7 +1,7 @@
 <?php
 //connect.php
-$server = 'localhost';
-$username   = 'usernamehere';
+$server = 'https://github.com/ripleys/webpage';
+$username   = '';
 $password   = 'passwordhere';
 $database   = 'databasenamehere';
  
